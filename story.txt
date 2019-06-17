@@ -1,8 +1,27 @@
-
+<!DOCTYPE html>
 <html>
-    <body>
-        <h1>The CP1 Story</h1>
-        <h2>by Mr. Berg's 7th period</h2>
-        <p>This is the <strong>beginning</strong> of the story</p>
-    </body>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First Website </h1>
+<p>supercell video games</p>
+
+</body>
 </html>
+
