@@ -19,7 +19,7 @@ p {
 </head>
 <body>
 
-<h1>My First Website </h1>
+
 <p>supercell video games</p>
 
 </body>
