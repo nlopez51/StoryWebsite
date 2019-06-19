@@ -58,67 +58,7 @@
  <li>Swervin</li>
 </ul>
     </ol>
-<hr>
-<table>
-<tr>
-<th>Period</th>    
-  <th>Course</th>  
-    <th>Room #</th>
-    <th>Teacher</th>
-    </tr>
- <tr>
-    <td>1</td>
-    <td>HS1 Exploring Computer Science</td>
-    <td>230</td>
-    <td>Mr.Patel</td>
-  </tr>    
-    <tr>
-        <td>2</td>
-    <td>HS1 Geomerty</td>
-    <td>321</td>
-    <td>Mr.Kane</td>
- </tr>
-     <tr>
-        <td>3</td>
-    <td>HS1 Spanish I</td>
-    <td>107</td>
-    <td>Mr.Enriquez</td>
- </tr>
-  <tr>
-        <td>4</td>
-    <td>HS1 English I</td>
-    <td>236</td>
-    <td>Ms.Ewers</td>
- </tr>
-     <tr>
-        <td>5</td>
-    <td>Lunch</td>
-    <td>Lunch Room</td>
-    <td>N/A</td>
- </tr>
-     <tr>
-        <td>6</td>
-    <td>HS1 Biology</td>
-    <td>342</td>
-    <td>Mr.Kim</td>
- </tr>
-     <tr>
-        <td>7</td>
-    <td>RS1 Health/P.E</td>
-    <td>112</td>
-    <td>Ms.Heveran</td>
- </tr>
-     <tr>
-        <td>8</td>
-    <td>AP Human Geography</td>
-    <td>258</td>
-    <td>Ms.Spence</td>
- </tr>
-    
-    
-    
-    
-</table>
+]
 
 </body>
 
