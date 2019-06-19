@@ -25,15 +25,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/DrakeBackToBackCover.jpg/220px-DrakeBackToBackCover.jpg"alt="Drake Cover Art" width="200px">
 <hr>
 
-    <h4>Top 5</h4>
-        <ol>
-            <li>Drake</li> 
-                <ul>
-                     <li>Back to Back</li>   
-                <li>Star 67</li>
-            <li>Going Bad</li>
-        </ul> 
-    <li>Logic</li>
+    
 <ul>
       <li>44 More</li>  
             <li>YSIV</li>
